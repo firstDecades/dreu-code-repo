@@ -1,0 +1,5 @@
+Run_ID,Lx,Ly,N_sites,t1,t2,U,Target_Filling,N_elec,Energy_0,Average_Energy,MPS_Info,Converged,Duration_sec
+Kagome_Hubbard_000,2,2,12,1.0,0.0,6.082,0.5,1,-4.0,-1.0,"MPS, L=12, bc='finite'.
+chi: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(1.0, 0.0) (1.0, 0.0)",True,6.165982961654663
