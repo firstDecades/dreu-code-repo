@@ -1,0 +1,5 @@
+Run_ID,Lx,Ly,N_sites,t1,t2,U,Target_Filling,N_elec,Energy_0,Average_Energy,MPS_Info,Converged,Duration_sec
+Kagome_Hubbard_000,3,1,9,1.0,0.06510890223261123,2.914521351607456,0.8,7,-15.534415495367886,-12.100308496132895,"MPS, L=9, bc='finite'.
+chi: [4, 16, 64, 205, 205, 64, 16, 4]
+sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+forms: (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0) (0.0, 1.0)",True,111.60476517677307
