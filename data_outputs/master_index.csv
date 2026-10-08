@@ -59,3 +59,315 @@ twelve_site_kagome_014,2,2,12,-0.006773912874897203,0.0,5.325931652365046,0.8,10
 chi: [4, 16, 64, 203, 300, 300, 300, 213, 62, 16, 4]
 first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
 first two forms:(0.0, 1.0) (0.0, 1.0)",True,127.58390402793884
+twelve_site_kagome_015,2,2,12,-0.07099526490213418,0.0,8.574360521440042,0.5,6,-0.7357229695288866,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 177, 279, 300, 279, 178, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,114.82520246505737
+twelve_site_kagome_016,2,2,12,-0.09473976862229616,0.0,0.44991221943883297,1.0,12,-0.8737190311734973,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,132.03056049346924
+twelve_site_kagome_017,2,2,12,-0.11073065842483346,0.0,7.726237913973034,0.417,5,-1.107306558294392,"MPS, L=12, bc='finite'.
+chi: [4, 16, 35, 69, 95, 126, 117, 71, 40, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,34.6897931098938
+twelve_site_kagome_018,2,2,12,0.07276003682757592,0.0,7.832430689788264,0.333,4,-0.7513980050422535,"MPS, L=12, bc='finite'.
+chi: [4, 15, 41, 54, 71, 87, 71, 54, 41, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,45.38612508773804
+twelve_site_kagome_019,2,2,12,-0.05067304325157282,0.0,0.39047174099715887,0.417,5,-0.5067304325157271,"MPS, L=12, bc='finite'.
+chi: [3, 8, 8, 19, 41, 22, 41, 19, 8, 8, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,26.069146394729614
+twelve_site_kagome_020,2,2,12,0.24848878902613653,0.0,1.5422804211090413,1.0,12,-1.788093248416076,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,129.38939309120178
+twelve_site_kagome_021,2,2,12,0.27881251683226344,0.0,3.3648444364356846,0.417,5,-3.4284625672572875,"MPS, L=12, bc='finite'.
+chi: [4, 15, 49, 104, 135, 150, 146, 106, 52, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,46.53932309150696
+twelve_site_kagome_022,2,2,12,0.1209912069225394,0.0,1.5659697249445217,0.8,10,-1.1224002600518044,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 254, 300, 300, 300, 253, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,119.61106729507446
+twelve_site_kagome_023,2,2,12,-0.07040881898428661,0.0,9.884994995733031,0.5,6,-0.7292829721350569,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 176, 279, 300, 279, 178, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,119.96961832046509
+twelve_site_kagome_024,2,2,12,-0.26649039235790284,0.0,0.13357691433263522,0.333,4,-2.1319231386838795,"MPS, L=12, bc='finite'.
+chi: [4, 15, 24, 38, 52, 50, 53, 41, 24, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,27.999778747558594
+twelve_site_kagome_025,2,2,12,0.1251295050511937,0.0,6.987729199534156,0.8,10,-0.8581895488597425,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 246, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,117.42188906669617
+twelve_site_kagome_026,2,2,12,0.034510029361613126,0.0,5.255276252477229,1.2,14,10.279162425236567,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 244, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,114.2114086151123
+twelve_site_kagome_027,2,2,12,-0.10999631762467874,0.0,2.4218169111332886,1.2,14,3.9620263254963946,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,115.91615128517151
+twelve_site_kagome_028,2,2,12,0.007245474842818012,0.0,1.3512407055723274,0.333,4,-0.0745811644905285,"MPS, L=12, bc='finite'.
+chi: [4, 15, 41, 54, 71, 85, 71, 54, 41, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,43.615697145462036
+twelve_site_kagome_029,2,2,12,0.011095107287520944,0.0,1.1988518925833576,0.8,10,-0.07191628343499261,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,114.5283534526825
+twelve_site_kagome_030,2,2,12,-0.1396593901855051,0.0,1.5632158962463047,0.5,6,-1.4896225684194897,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 178, 281, 300, 281, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,111.17449045181274
+twelve_site_kagome_031,2,2,12,0.022587255218047497,0.0,0.40005502272287496,0.5,6,-0.2793284681582082,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 282, 300, 282, 178, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,71.57915139198303
+twelve_site_kagome_032,2,2,12,-0.05077719177509232,0.0,1.7169896313500972,0.333,4,-0.4062175341530583,"MPS, L=12, bc='finite'.
+chi: [4, 11, 24, 43, 57, 59, 62, 46, 25, 13, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,25.92188787460327
+twelve_site_kagome_033,2,2,12,0.28073547354282097,0.0,4.747533426296445,0.5,6,-3.483373348456703,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 282, 300, 282, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,75.42975425720215
+twelve_site_kagome_034,2,2,12,0.22377951199815266,0.0,1.2004807063877259,1.0,12,-1.8550582220018663,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,137.80589199066162
+twelve_site_kagome_035,2,2,12,-0.15492111254241359,0.0,9.764893999021815,0.333,4,-1.2393689003388626,"MPS, L=12, bc='finite'.
+chi: [3, 9, 10, 22, 39, 36, 38, 21, 10, 9, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,26.13561987876892
+twelve_site_kagome_036,2,2,12,0.15347096368316449,0.0,2.8046433576808516,1.0,12,-0.37849008851678323,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 254, 300, 300, 300, 254, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,114.63209438323975
+twelve_site_kagome_037,2,2,12,0.04456451989624449,0.0,5.0806134675118635,0.5,6,-0.5130820337928186,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 280, 300, 280, 178, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,90.0733597278595
+twelve_site_kagome_038,2,2,12,-0.0269387277648514,0.0,0.3203506695237639,0.8,10,-0.24424653925175915,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 251, 300, 300, 300, 251, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,93.82341623306274
+twelve_site_kagome_039,2,2,12,-0.17949053984026136,0.0,5.497553505373824,0.8,10,-1.3127059943588133,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 246, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,115.56643724441528
+twelve_site_kagome_040,2,2,12,0.17062854840430425,0.0,0.22304567510256854,0.5,6,-2.5982085494861327,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 282, 300, 282, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,70.53126502037048
+twelve_site_kagome_041,2,2,12,0.0048094618523462085,0.0,4.081523135754986,0.8,10,-0.029494318024340407,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 230, 300, 300, 300, 228, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,109.11500096321106
+twelve_site_kagome_042,2,2,12,0.17216787091943225,0.0,0.5039999661376823,0.417,5,-2.279553022058231,"MPS, L=12, bc='finite'.
+chi: [4, 15, 47, 106, 133, 150, 133, 106, 47, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,36.944016456604004
+twelve_site_kagome_043,2,2,12,0.16964582775641435,0.0,4.528526921828319,0.417,5,-2.018180877748056,"MPS, L=12, bc='finite'.
+chi: [4, 15, 48, 104, 135, 151, 148, 106, 52, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,43.48182129859924
+twelve_site_kagome_044,2,2,12,-0.031719300036893106,0.0,0.49131386764048546,0.5,6,-0.3357251819210853,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 178, 281, 300, 281, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,83.06025743484497
+twelve_site_kagome_045,2,2,12,-0.07423515731603825,0.0,8.177016671928142,1.2,14,15.87342492479013,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,105.57923913002014
+twelve_site_kagome_046,2,2,12,0.18053591558493487,0.0,3.5896027939972153,0.333,4,-1.9187546704105023,"MPS, L=12, bc='finite'.
+chi: [4, 15, 41, 54, 71, 86, 71, 54, 41, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,42.52760457992554
+twelve_site_kagome_047,2,2,12,-0.06459299920786668,0.0,6.2214629972772375,1.0,12,-0.030599624288768956,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 235, 300, 300, 300, 232, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,105.9809639453888
+twelve_site_kagome_048,2,2,12,-0.03546445998340475,0.0,0.290737858120807,0.333,4,-0.2837156798658776,"MPS, L=12, bc='finite'.
+chi: [4, 10, 15, 31, 44, 38, 44, 32, 19, 11, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,21.35092854499817
+twelve_site_kagome_049,2,2,12,-0.22550390058627806,0.0,0.8790277665953437,0.333,4,-1.8040312046897289,"MPS, L=12, bc='finite'.
+chi: [4, 9, 9, 20, 36, 30, 38, 23, 10, 10, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,19.65262246131897
+twelve_site_kagome_050,2,2,12,0.29128711970094007,0.0,6.387744879695065,1.2,14,10.518638506884203,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 246, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,111.72127413749695
+twelve_site_kagome_051,2,2,12,-0.2917683446190391,0.0,6.648034276989758,0.417,5,-2.9176834461901895,"MPS, L=12, bc='finite'.
+chi: [4, 8, 8, 19, 41, 22, 41, 19, 8, 8, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,23.93458652496338
+twelve_site_kagome_052,2,2,12,0.18465574713168753,0.0,5.781267660886549,1.2,14,10.216376760264778,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 246, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,113.1546585559845
+twelve_site_kagome_053,2,2,12,0.0009861555807129108,0.0,9.270720270128958,0.5,6,-0.011178649464379822,"MPS, L=12, bc='finite'.
+chi: [4, 15, 54, 171, 275, 300, 276, 169, 54, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,107.10753154754639
+twelve_site_kagome_054,2,2,12,0.13060625916399593,0.0,0.14539185298342278,1.2,14,-2.0388761764583654,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,83.08640742301941
+twelve_site_kagome_055,2,2,12,0.05733645219761341,0.0,9.509256229723029,0.333,4,-0.5905225428620102,"MPS, L=12, bc='finite'.
+chi: [4, 15, 41, 54, 71, 85, 71, 54, 41, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,40.569629192352295
+twelve_site_kagome_056,2,2,12,-0.16678925250287954,0.0,9.43865443456447,0.8,10,-1.147004340100133,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 245, 300, 300, 300, 245, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,106.07112121582031
+twelve_site_kagome_057,2,2,12,-0.06258876920734652,0.0,2.6344343983561602,0.5,6,-0.6527611821003572,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 279, 300, 279, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,90.95796990394592
+twelve_site_kagome_058,2,2,12,-0.19968309707041665,0.0,6.031338553565475,0.8,10,-1.4633276106626618,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 246, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,116.40076303482056
+twelve_site_kagome_059,2,2,12,0.2654924304170901,0.0,8.61585467791012,0.417,5,-3.139815070153173,"MPS, L=12, bc='finite'.
+chi: [4, 15, 47, 106, 133, 150, 133, 106, 47, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,47.03673052787781
+twelve_site_kagome_060,2,2,12,-0.0023140115659481264,0.0,8.634820377678796,0.417,5,-0.02314011565852152,"MPS, L=12, bc='finite'.
+chi: [3, 9, 26, 45, 82, 109, 106, 67, 26, 9, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,44.8274085521698
+twelve_site_kagome_061,2,2,12,0.0820058833318264,0.0,6.5713796672402705,1.0,12,-0.04654266709944218,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 240, 300, 300, 300, 237, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,106.39121985435486
+twelve_site_kagome_062,2,2,12,0.2503547479849511,0.0,1.5700453531692617,1.2,14,0.26456787188002134,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,87.50996661186218
+twelve_site_kagome_063,2,2,12,0.07735809809375549,0.0,4.359574778168181,1.2,14,8.187052310073506,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 245, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,106.74787259101868
+twelve_site_kagome_064,2,2,12,-0.28527015748286544,0.0,1.8024085266973284,1.0,12,-2.0159911871489586,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,121.18047952651978
+twelve_site_kagome_065,2,2,12,0.004512170950448757,0.0,7.821847299807721,0.8,10,-0.027494995713195896,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 199, 300, 300, 300, 215, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,107.71884298324585
+twelve_site_kagome_066,2,2,12,0.29910980299451534,0.0,0.13396254823014359,1.0,12,-5.587910249291635,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,160.99902534484863
+twelve_site_kagome_067,2,2,12,0.14821111950978533,0.0,6.946929752885405,1.2,14,12.864636634823038,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 245, 300, 300, 300, 245, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,106.67646622657776
+twelve_site_kagome_068,2,2,12,-0.0006989882457762997,0.0,4.740028042876451,0.333,4,-0.005591905965983855,"MPS, L=12, bc='finite'.
+chi: [3, 9, 25, 43, 53, 44, 50, 34, 23, 9, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,35.490055084228516
+twelve_site_kagome_069,2,2,12,0.2984475401157352,0.0,3.4294745718123183,0.5,6,-3.8205624841579024,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 282, 300, 282, 178, 63, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,64.47238826751709
+twelve_site_kagome_070,2,2,12,0.1659652717232678,0.0,5.832211693874043,0.417,5,-1.958518043874004,"MPS, L=12, bc='finite'.
+chi: [4, 15, 47, 106, 133, 150, 133, 106, 47, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,45.966023206710815
+twelve_site_kagome_071,2,2,12,-0.09514047887614191,0.0,1.4433559414212633,0.333,4,-0.7611238310087494,"MPS, L=12, bc='finite'.
+chi: [3, 9, 10, 22, 40, 36, 38, 23, 9, 9, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,20.877301692962646
+twelve_site_kagome_072,2,2,12,0.2503870199836698,0.0,8.314802166358051,0.8,10,-1.8481806017565656,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,105.91566061973572
+twelve_site_kagome_073,2,2,12,-0.23930196637008916,0.0,0.4193492689468501,1.2,14,-3.1920370322120153,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,175.50722551345825
+twelve_site_kagome_074,2,2,12,-0.09584302401341604,0.0,3.855253718954676,0.333,4,-0.7667441920491637,"MPS, L=12, bc='finite'.
+chi: [4, 10, 23, 43, 57, 60, 61, 45, 23, 10, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,23.528759479522705
+twelve_site_kagome_075,2,2,12,0.17723706999430971,0.0,4.8503249913799795,0.417,5,-2.10680388305922,"MPS, L=12, bc='finite'.
+chi: [4, 15, 48, 104, 135, 150, 147, 106, 52, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,44.54276156425476
+twelve_site_kagome_076,2,2,12,0.06782825976755752,0.0,9.160324420693755,0.417,5,-0.7836840868028141,"MPS, L=12, bc='finite'.
+chi: [4, 15, 47, 106, 133, 150, 133, 106, 47, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,49.632487773895264
+twelve_site_kagome_077,2,2,12,-0.11871466632158892,0.0,6.350232120576068,0.8,10,-0.8184315879747527,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 245, 300, 300, 300, 245, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,107.83907389640808
+twelve_site_kagome_078,2,2,12,-0.2849500483776929,0.0,1.595233079666307,0.417,5,-2.849500483776922,"MPS, L=12, bc='finite'.
+chi: [3, 8, 8, 19, 41, 22, 41, 19, 8, 8, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,23.011014699935913
+twelve_site_kagome_079,2,2,12,0.2792600578300681,0.0,1.0910275421157323,0.417,5,-3.6479696407927795,"MPS, L=12, bc='finite'.
+chi: [4, 15, 47, 106, 133, 150, 133, 106, 47, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,37.406329870224
+twelve_site_kagome_080,2,2,12,0.09798478573533376,0.0,3.2423652276841923,0.417,5,-1.1581767457502434,"MPS, L=12, bc='finite'.
+chi: [4, 15, 48, 105, 137, 152, 146, 106, 51, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,44.5720579624176
+twelve_site_kagome_081,2,2,12,-0.28173456476403796,0.0,4.174719608054925,0.417,5,-2.8173456476403715,"MPS, L=12, bc='finite'.
+chi: [3, 8, 8, 19, 41, 22, 41, 19, 8, 8, 3]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,23.176616191864014
+twelve_site_kagome_082,2,2,12,-0.13207385639910543,0.0,6.851000598680981,1.0,12,-0.1152026690132449,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 254, 300, 300, 300, 250, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,107.63241410255432
+twelve_site_kagome_083,2,2,12,-0.04754389576973217,0.0,8.58858598247208,1.0,12,-0.011906112838695524,"MPS, L=12, bc='finite'.
+chi: [4, 16, 62, 217, 300, 300, 300, 209, 61, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,98.44985485076904
+twelve_site_kagome_084,2,2,12,0.10823553532964986,0.0,6.122090833087457,0.8,10,-0.741263640844514,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 247, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,109.5712218284607
+twelve_site_kagome_085,2,2,12,0.2754411046801499,0.0,5.3665750774782115,0.8,10,-2.2743102730592266,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 249, 300, 300, 300, 249, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,108.7422707080841
+twelve_site_kagome_086,2,2,12,0.28701272427802577,0.0,1.9976086840499003,1.2,14,0.8323307883739018,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 256, 300, 300, 300, 256, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,107.07065773010254
+twelve_site_kagome_087,2,2,12,-0.18473758526032055,0.0,6.195981502115387,0.333,4,-1.4779006818731109,"MPS, L=12, bc='finite'.
+chi: [4, 11, 24, 43, 60, 58, 62, 46, 25, 13, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,22.89954686164856
+twelve_site_kagome_088,2,2,12,-0.07385242603212733,0.0,7.156024523322616,0.333,4,-0.5908194080959099,"MPS, L=12, bc='finite'.
+chi: [4, 10, 25, 43, 60, 65, 65, 46, 25, 11, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,25.97600531578064
+twelve_site_kagome_089,2,2,12,0.2035367841130143,0.0,1.0940521827251986,0.5,6,-2.799407336155955,"MPS, L=12, bc='finite'.
+chi: [4, 16, 63, 178, 282, 300, 282, 178, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,62.238712549209595
+twelve_site_kagome_090,2,2,12,-0.2426772040029638,0.0,0.735669486913721,0.333,4,-1.9414176320230494,"MPS, L=12, bc='finite'.
+chi: [4, 9, 10, 23, 40, 31, 38, 23, 9, 9, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,19.153682947158813
+twelve_site_kagome_091,2,2,12,-0.24700204584348212,0.0,6.372225032036607,0.8,10,-1.856690959711899,"MPS, L=12, bc='finite'.
+chi: [4, 16, 64, 246, 300, 300, 300, 247, 64, 16, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,111.46116662025452
+twelve_site_kagome_092,2,2,12,0.2284839281223377,0.0,4.41739055330312,0.417,5,-2.7501069273873746,"MPS, L=12, bc='finite'.
+chi: [4, 15, 48, 104, 136, 150, 146, 106, 52, 15, 4]
+first two sites: SpinHalfFermionSite('N', 'Sz', 1.000000) SpinHalfFermionSite('N', 'Sz', 1.000000)
+first two forms:(0.0, 1.0) (0.0, 1.0)",True,43.84487175941467
